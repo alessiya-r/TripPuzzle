@@ -1,3 +1,4 @@
 # Local spec (not committed)
 docs/spec.md
 backend/.venv/
+__pycache__/
