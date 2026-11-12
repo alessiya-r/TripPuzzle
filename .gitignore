@@ -2,3 +2,4 @@
 docs/spec.md
 backend/.venv/
 __pycache__/
+.env
