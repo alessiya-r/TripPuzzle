@@ -1,5 +1,18 @@
 # Local spec (not committed)
 docs/spec.md
-backend/.venv/
-__pycache__/
+
+# Secrets
 .env
+
+# Python
+__pycache__/
+*.pyc
+backend/.venv/
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
